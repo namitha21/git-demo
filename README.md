@@ -17,4 +17,10 @@ This course turns that old, frustrating, and outdated way of learning on its hea
 
 
 ##More random texts
-With nearly 20 years of programming and software development experience, I started out teaching myself programming while in High School. I put myself through college working for a local Internet Service Provider as a programmer. Before finishing college, I developed and sold an award winning website to a Dot-Com start-up. After college, I have worked at several companies ranging from start-ups to large enterprises focusing on Java and client-side technologies (HTML/CSS/JavaScript). Throughout my career, I have oppo 
+With nearly 20 years of programming and software development experience, I started out teaching myself programming while in High School. I pu
+t myself through college working for a local Internet Service Provider as a programmer. Before finishing college, I developed and sold an award winning website to a Dot-Com start-up. After college, I have worked at several companies ranging from start-ups to large enterprises focusing on Java and client-side technologies (HTML/CSS/JavaScript). Throughout my career, I have oppo
+
+
+##Website contents
+index.html
+ 
